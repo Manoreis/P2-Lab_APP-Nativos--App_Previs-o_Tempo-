@@ -1,10 +1,4 @@
-Com certeza\! Você está absolutamente certo. Quando o conteúdo do `README.md` é copiado diretamente do chat, a formatação Markdown (como `##` para títulos e `*` para listas) pode ser perdida.
 
-Para facilitar sua vida, vou enviar o **conteúdo bruto** do `README.md` pronto para você copiar e colar em um arquivo de texto simples no seu computador, ou diretamente no seu repositório GitHub, garantindo que a formatação Markdown seja aplicada corretamente lá.
-
-Aqui está o conteúdo:
-
-````
 # ☀️ Simple Weather App (Previsão do Tempo Simples)
 
 Um aplicativo móvel desenvolvido em React Native (Expo) para exibir a previsão do tempo de qualquer cidade do mundo, utilizando a API pública do OpenWeatherMap.
