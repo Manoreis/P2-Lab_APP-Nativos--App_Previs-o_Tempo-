@@ -39,7 +39,7 @@ Antes de começar, você precisará ter o Node.js e o npm/yarn instalados.
    # Verifique sua versão
    node -v
    npm -v
-````
+   ````
 
 2.  **Expo CLI: Instale a ferramenta de linha de comando do Expo globalmente.
 
