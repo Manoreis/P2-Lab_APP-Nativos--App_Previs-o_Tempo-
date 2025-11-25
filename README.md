@@ -5,17 +5,17 @@ Um aplicativo móvel desenvolvido em React Native (Expo) para exibir a previsão
 
 ## ✨ Funcionalidades
 
-* **Busca por Cidade:** Campo de entrada simples para buscar a previsão do tempo por nome da cidade.
+* Busca por Cidade:** Campo de entrada simples para buscar a previsão do tempo por nome da cidade.
 
-* **Temperatura em Celsius:** Exibe a temperatura atual em graus Celsius.
+* Temperatura em Celsius:** Exibe a temperatura atual em graus Celsius.
 
-* **Descrição e Ícone:** Mostra uma descrição textual do clima (ex: "Céu Limpo", "Chuva") e um ícone de emoji correspondente.
+* Descrição e Ícone:** Mostra uma descrição textual do clima (ex: "Céu Limpo", "Chuva") e um ícone de emoji correspondente.
 
-* **Informações Detalhadas:** Apresenta dados de temperatura mínima, máxima, umidade e velocidade do vento.
+* Informações Detalhadas:** Apresenta dados de temperatura mínima, máxima, umidade e velocidade do vento.
 
-* **Design Responsivo:** Interface otimizada para diferentes tamanhos de tela mobile.
+* Design Responsivo:** Interface otimizada para diferentes tamanhos de tela mobile.
 
-* **Tratamento de Erros:** Exibe mensagens claras para erros de API (cidade não encontrada) ou de conexão.
+* Tratamento de Erros:** Exibe mensagens claras para erros de API (cidade não encontrada) ou de conexão.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando o ecossistema React Native através do Exp
 
 * **OpenWeatherMap API:** API pública para obtenção de dados de clima em tempo real.
 
-* **JavaScript (ES6+):** Linguagem de programação principal.
+* JavaScript (ES6+):** Linguagem de programação principal.
 
 ## 🛠️ Pré-requisitos
 
@@ -41,7 +41,7 @@ Antes de começar, você precisará ter o Node.js e o npm/yarn instalados.
    npm -v
 ````
 
-2.  **Expo CLI:** Instale a ferramenta de linha de comando do Expo globalmente.
+2.  **Expo CLI: Instale a ferramenta de linha de comando do Expo globalmente.
 
     ```bash
     npm install -g expo-cli
